@@ -26,7 +26,7 @@ curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/figma-to-angular-skil
 
 ### Claude.ai (web/app) — manual upload
 
-1. Download [`figma-to-angular.zip`](https://github.com/YOUR_USERNAME/figma-to-angular-skill/releases/latest/download/figma-to-angular.zip) from Releases
+1. Download [`figma-to-angular.zip`](https://github.com/AnchalSharma77/figma-to-angular-skill/releases/latest/download/figma-to-angular.zip) from Releases
 2. Go to **claude.ai → Settings → Features → Skills**
 3. Click **Upload** and select the `.zip` file
 4. Make sure **Code execution and file creation** is enabled in **Settings → Capabilities**
