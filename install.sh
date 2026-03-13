@@ -28,7 +28,7 @@ mkdir -p "$INSTALL_DIR"
 
 # Download SKILL.md
 echo "📥 Downloading SKILL.md..."
-curl -fsSL "$REPO_RAW/$SKILL_NAME/SKILL.md" -o "$INSTALL_DIR/SKILL.md"
+curl -fsSL "$REPO_RAW/SKILL.md" -o "$INSTALL_DIR/SKILL.md"
 
 echo ""
 echo "✅ Skill installed successfully!"
