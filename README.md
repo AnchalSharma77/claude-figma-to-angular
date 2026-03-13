@@ -21,7 +21,7 @@ Run `/figma-to-angular <figma-url>` and Claude will:
 ### Claude Code (CLI) — one-liner
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/figma-to-angular-skill/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/AnchalSharma77/figma-to-angular-skill/main/install.sh | bash
 ```
 
 ### Claude.ai (web/app) — manual upload
