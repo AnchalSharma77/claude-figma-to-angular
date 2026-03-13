@@ -6,7 +6,7 @@
 set -e
 
 SKILL_NAME="figma-to-angular"
-REPO_RAW="https://raw.githubusercontent.com/YOUR_USERNAME/figma-to-angular-skill/main"
+REPO_RAW="https://raw.githubusercontent.com/YOUR_USERNAME/claude-figma-to-angular/main"
 INSTALL_DIR="$HOME/.claude/skills/$SKILL_NAME"
 
 echo ""
